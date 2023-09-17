@@ -13,6 +13,6 @@ Una primera exploración para el modelo de cargas para plataforma de camiones.
 
 - Depurar datos
 - Revisar parámetros
-- Integrar lectura de API
+- Integrar lectura de API Google Maps
  
 
