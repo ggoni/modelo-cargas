@@ -11,8 +11,8 @@ Una primera exploración para el modelo de cargas para plataforma de camiones.
 
 ## Aspectos por corregir
 
-- Depurar datos
-- Revisar parámetros
-- Integrar lectura de API Google Maps
+- [ ] Pipeline depuración datos
+- [ ] Revisar parámetros
+- [ ] Integrar lectura de API Google Maps
  
 
